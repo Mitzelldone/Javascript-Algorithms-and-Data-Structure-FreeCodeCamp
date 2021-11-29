@@ -1,5 +1,9 @@
 # JavaScript Algorithms and Data Structures Certificate
 
+![photo](https://github.com/augini/javascript-algorithms-certification-freecodecamp/blob/master/certificate.PNG)
+
+[View Credentials](https://www.freecodecamp.org/certification/mitzelldone/ javascript-algorithms-and-data-structures)
+
 ## [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting)
 
 - [x] Convert Celsius to Fahrenheit
