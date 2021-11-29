@@ -1,8 +1,11 @@
 # JavaScript Algorithms and Data Structures Certificate
 
-![photo](https://github.com/augini/javascript-algorithms-certification-freecodecamp/blob/master/certificate.PNG)
+![photo](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/certificate.PNG)
 
-[View Credentials](https://www.freecodecamp.org/certification/mitzelldone/ javascript-algorithms-and-data-structures)
+**[VIEW CREDENTIALS](https://www.freecodecamp.org/certification/mitzelldone/javascript-algorithms-and-data-structures)**
+
+---
+
 
 ## [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting)
 
@@ -55,6 +58,4 @@
 - [x] Telephone Number Validator
 - [x] Cash Register
 
-![photo](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/certificate.PNG)
 
-[View Credentials](https://www.freecodecamp.org/certification/mitzelldone/ javascript-algorithms-and-data-structures)
