@@ -52,10 +52,10 @@
 
 ## [JavaScript Algorithms and Data Structures Projects](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures%20Projects)
 
-- [x] Palindrome Checker
-- [x] Roman Numeral Converter
-- [x] Caesars Cipher
-- [x] Telephone Number Validator
-- [x] Cash Register
+- [x] [Palindrome Checker](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures%20Projects/Palindrome%20Checker.js)
+- [x] [Roman Numeral Converter](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures%20Projects/Roman%20Numeral%20Converter.js)
+- [x] [Caesars Cipher](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures%20Projects/Caesars%20Cipher.js)
+- [x] [Telephone Number Validator](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures%20Projects/Telephone%20Number%20Validator.js)
+- [x] [Cash Register](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures%20Projects/Cash%20Register.js)
 
 
