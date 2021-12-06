@@ -35,7 +35,7 @@
 - [x] [Spinal Tap Case](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Spinal%20Tap%20Case.js)
 - [x] [Pig Latin](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Pig%20Latin.js)
 - [x] [Search and Replace](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Search%20and%20Replace.js)
-- [x] DNA Pairing
+- [x] [DNA Pairing](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/DNA%20Pairing.js)
 - [x] Missing letters
 - [x] Sorted Union
 - [x] Convert HTML Entities
