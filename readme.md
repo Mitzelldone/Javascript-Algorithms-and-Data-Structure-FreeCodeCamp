@@ -37,7 +37,7 @@
 - [x] [Search and Replace](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Search%20and%20Replace.js)
 - [x] [DNA Pairing](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/DNA%20Pairing.js)
 - [x] [Missing letters](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Missing%20letters.js)
-- [x] Sorted Union
+- [x] [Sorted Union](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Sorted%20Union.js)
 - [x] Convert HTML Entities
 - [x] Sum All Odd Fibonacci Numbers
 - [x] Sum All Primes
