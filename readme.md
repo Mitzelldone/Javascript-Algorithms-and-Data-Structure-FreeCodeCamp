@@ -40,7 +40,7 @@
 - [x] [Sorted Union](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Sorted%20Union.js)
 - [x] [Convert HTML Entities](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Convert%20HTML%20EntitiesPassed.js)
 - [x] [Sum All Odd Fibonacci Numbers](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Sum%20All%20Odd%20Fibonacci%20Numbers.js)
-- [x] Sum All Primes
+- [x] [Sum All Primes](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Sum%20All%20Primes.js)
 - [x] Smallest Common Multiple
 - [x] Drop it
 - [x] Steamroller
