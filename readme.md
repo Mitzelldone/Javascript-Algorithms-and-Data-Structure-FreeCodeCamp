@@ -42,7 +42,7 @@
 - [x] [Sum All Odd Fibonacci Numbers](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Sum%20All%20Odd%20Fibonacci%20Numbers.js)
 - [x] [Sum All Primes](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Sum%20All%20Primes.js)
 - [x] [Smallest Common Multiple](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Smallest%20Common%20Multiple.js)
-- [x] Drop it
+- [x] [Drop it](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Drop%20it.js)
 - [x] Steamroller
 - [x] Binary Agents
 - [x] Everything Be True
