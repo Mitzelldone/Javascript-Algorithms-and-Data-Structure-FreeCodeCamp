@@ -44,7 +44,7 @@
 - [x] [Smallest Common Multiple](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Smallest%20Common%20Multiple.js)
 - [x] [Drop it](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Drop%20it.js)
 - [x] [Steamroller](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Steamroller.js)
-- [x] Binary Agents
+- [x] [Binary Agents](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Binary%20Agents.js)
 - [x] Everything Be True
 - [x] Arguments Optional
 - [x] Make a Person
