@@ -45,7 +45,7 @@
 - [x] [Drop it](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Drop%20it.js)
 - [x] [Steamroller](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Steamroller.js)
 - [x] [Binary Agents](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Binary%20Agents.js)
-- [x] Everything Be True
+- [x] [Everything Be True](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Everthing%20Be%20True.js)
 - [x] Arguments Optional
 - [x] Make a Person
 - [x] Map the Debris
