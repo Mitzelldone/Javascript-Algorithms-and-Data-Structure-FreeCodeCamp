@@ -46,8 +46,8 @@
 - [x] [Steamroller](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Steamroller.js)
 - [x] [Binary Agents](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Binary%20Agents.js)
 - [x] [Everything Be True](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Everthing%20Be%20True.js)
-- [x] Arguments Optional
-- [x] Make a Person
+- [x] [Arguments Optional](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Arguments%20Optional.js)
+- [x] [Make a Person](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Make%20A%20Person.js)
 - [x] Map the Debris
 
 ## [JavaScript Algorithms and Data Structures Projects](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures%20Projects)
