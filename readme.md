@@ -48,7 +48,7 @@
 - [x] [Everything Be True](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Everthing%20Be%20True.js)
 - [x] [Arguments Optional](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Arguments%20Optional.js)
 - [x] [Make a Person](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Make%20A%20Person.js)
-- [x] Map the Debris
+- [x] [Map the Debris](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Intermediate%20Algorithm%20Scripting/Map%20the%20Debris.js)
 
 ## [JavaScript Algorithms and Data Structures Projects](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures%20Projects)
 
