@@ -9,7 +9,7 @@
 
 ## [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting)
 
-- [x] Convert Celsius to Fahrenheit
+- [x] [Convert Celsius to Fahrenheit](https://github.com/Mitzelldone/Javascript-Algorithms-and-Data-Structure-FreeCodeCamp/blob/main/Basic%20Algorithm%20Scripting/Convert%20Celsius%20to%20Fahrenheit.js)
 - [x] Reverse a String
 - [x] Factorialize a Number
 - [x] Find the Longest Word in a String
